@@ -1,6 +1,0 @@
-com\enterprise\tests\LogoutTest.class
-com\enterprise\tests\LoginTest.class
-com\enterprise\base\BaseTest.class
-com\enterprise\listeners\ReportListener.class
-com\enterprise\utilities\DataProviderUtils.class
-com\enterprise\utilities\RetryAnalyzer.class
